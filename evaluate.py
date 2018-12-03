@@ -211,4 +211,5 @@ def main():
 if __name__ == '__main__':
     main()
 
-# python evaluate.py --in-path in_mages/level_1.png --out-path out_images/level_1.jpg --checkpoint models/rain_princess.ckpt
+# python evaluate.py --in-path in_images/level_1.png --out-path out_images/level_1.png --checkpoint models/rain_princess.ckpt
+# python evaluate.py --in-path in_images/level_1.png --out-path out_images/level_1.png --checkpoint models/scream.ckpt
